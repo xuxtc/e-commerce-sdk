@@ -1,0 +1,23 @@
+{
+  "name": "e-commerce-sdk",
+  "version": "0.0.1",
+  "description": "A cypress plugin for wrapping  basic steps",
+  "main": "src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxtc/e-commerce-sdk.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "cypress"
+  ],
+  "author": "xiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xuxtc/e-commerce-sdk/issues"
+  },
+  "homepage": "https://github.com/xuxtc/e-commerce-sdk#readme"
+}
